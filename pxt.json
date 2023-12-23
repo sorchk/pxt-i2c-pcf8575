@@ -3,14 +3,11 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
-        "main.blocks",
-        "main.ts"
+        "pcf8575.ts"
     ],
     "testFiles": [
         "test.ts"
