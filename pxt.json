@@ -3,11 +3,14 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "SSD1306_OLED": "github:tinkertanker/pxt-oled-ssd1306#v2.0.13"
     },
     "files": [
         "README.md",
-        "pcf8575.ts"
+        "pcf8575.ts",
+        "main.py",
+        "main.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -20,5 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
