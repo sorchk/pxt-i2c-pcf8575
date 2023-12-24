@@ -9,7 +9,6 @@
     "files": [
         "README.md",
         "pcf8575.ts",
-        "main.py",
         "main.ts"
     ],
     "testFiles": [
