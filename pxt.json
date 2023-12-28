@@ -8,7 +8,8 @@
     "files": [
         "README.md",
         "pcf8575.ts",
-        "main.ts"
+        "main.ts",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
